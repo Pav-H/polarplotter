@@ -224,20 +224,6 @@ class App extends React.Component {
                 />
               </div>
             </div>
-
-            <div className="row">
-              <div className="twelve columns">
-                <p style={{ textAlign: "right" }}>
-                  <a
-                    href="https://github.com/alipman88/l-systems"
-                    target="_blank"
-                  >
-                    <i className="fa fa-github" aria-hidden="true"></i> Source
-                    code
-                  </a>
-                </p>
-              </div>
-            </div>
           </div>
 
           <div className="eight columns">
